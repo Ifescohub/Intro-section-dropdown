@@ -149,7 +149,7 @@ main{
     flex-direction: row-reverse;
     margin: auto;
     justify-content: space-between;
-    height: 70%;
+    
 }
 
 .hero-image{
@@ -158,7 +158,7 @@ main{
 }
 
 .desktop-hero{
-    width: 75%;
+    width: 80%;
     height: 100%;
 }
 
@@ -221,7 +221,7 @@ main{
 }
 
 /* MEDIA QUERIES---------------------------------------- */
- @media (max-width: 1000px) {             /* TABLET */
+ @media (max-width: 960px) {             /* TABLET */
     body{  
         font-size: 15px;
     }
